@@ -1,1 +1,1 @@
-# OOP-in-C-Programming-Lab
+# OOP-in-CPP-Programming-Lab
